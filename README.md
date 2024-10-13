@@ -4,7 +4,7 @@ Please view the full Dashboard Here -
 
 [Full Dashboard] (https://app.powerbi.com/view?r=eyJrIjoiZWJlY2JiNzItN2RiYi00MTA2LWFjMmQtM2I5ODIwYWIyYjUyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-**Learned Skil :**
+**Learned Skill :**
 
 	AIMS Grid project management tool, to get clarity over the purpose and outcome of the project
 	SQL queries to retrieve expected data
